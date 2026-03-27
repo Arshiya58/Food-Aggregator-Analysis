@@ -1,13 +1,13 @@
 # 🍽️ FoodHub Data Analysis (EDA Project)
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project was completed as part of the **Introduction to Python** course in the **PGP-AIML-Online program at Great Learning**.
 
 The objective of this project is to perform **Exploratory Data Analysis (EDA)** on a food aggregator dataset to understand customer preferences, restaurant demand, and cuisine trends. These insights can help improve business strategies and enhance customer experience.
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 - Analyze customer ordering behavior
 - Identify popular restaurants and cuisines
 - Understand factors influencing demand
@@ -15,7 +15,7 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 - Python
 - NumPy
 - Pandas
@@ -24,21 +24,21 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 📊 Analysis Performed
+### 📊 Analysis Performed
 
-### 🔹 Univariate Analysis
+#### 🔹 Univariate Analysis
 - Distribution of ratings
 - Order frequency
 - Cost distribution
 
-### 🔹 Bivariate Analysis
+#### 🔹 Bivariate Analysis
 - Relationship between cost and ratings
 - Cuisine vs demand
 - Restaurant performance comparison
 
 ---
 
-## 📈 Key Insights
+### 📈 Key Insights
 - Certain cuisines have consistently higher demand
 - Highly rated restaurants attract more orders
 - Pricing plays a significant role in customer choices
@@ -46,12 +46,12 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
-# 💡 Business Recommendations
+### 💡 Business Recommendations
 - Promote high-demand cuisines
 - Partner with top-performing restaurants
 - Optimize pricing strategies
 - Improve visibility of highly rated restaurants
 
----
 
-## 📁 Project Structure
+
+

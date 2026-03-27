@@ -46,7 +46,7 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 💡 Business Recommendations
+# 💡 Business Recommendations
 - Promote high-demand cuisines
 - Partner with top-performing restaurants
 - Optimize pricing strategies

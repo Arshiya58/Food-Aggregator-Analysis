@@ -47,10 +47,11 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 ---
 
 ### 💡 Business Recommendations
-- Promote high-demand cuisines
-- Partner with top-performing restaurants
-- Optimize pricing strategies
-- Improve visibility of highly rated restaurants
+- Delivery time need to be reduced on weekdays
+- Need to provide more offers for top 10 frequent ordering customer
+- Need to tie up with more restaurant which contains American Cuisine
+- Need to give offers on weekdays so that orders will be increased
+
 
 
 
